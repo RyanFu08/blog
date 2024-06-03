@@ -41,8 +41,10 @@ title: Home
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
+        {% unless post.hidden %}
 
         {% include postbox.html %}
+        {% endunless %}
 
         {% endfor %}
 
