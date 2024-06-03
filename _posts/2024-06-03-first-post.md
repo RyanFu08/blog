@@ -7,5 +7,4 @@ categories: [default]
 hidden: false
 ---
 
-test
-![test](https://github.com/RyanFu08/blog/blob/master/assets/images/papers.png?raw=true)
+lorem ipsum dolor set amet
