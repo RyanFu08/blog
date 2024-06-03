@@ -2,8 +2,8 @@
 layout: post
 title: "First Post"
 author: ryan
-image: assets/images/papers.png
-categories: [default]
+image: assets/images/papers.jpg
+categories: [meta]
 hidden: false
 ---
 
