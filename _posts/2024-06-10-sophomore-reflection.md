@@ -3,7 +3,7 @@ layout: post
 title: "Sophomore Year Reflection"
 author: ryan
 image: assets/images/amadorvalley.jpeg
-categories: [meta]
+categories: [reflection]
 hidden: false
 ---
 
