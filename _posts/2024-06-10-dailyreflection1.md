@@ -25,3 +25,46 @@ Plan for tomorrow:
 - Finish [relevant unit of measure, haven't looked too much into it] for coursera on webdev of HTML JS CSS
 - Hold office hours for CPI
 - Grind more coursera (I've realized that doing webdev shit is pretty inefficient/impractical before I finish the course)
+
+#### Tuesday, June 11, 2024
+- Started off the day with solving a DS1 problem, [Souvenirs](https://codeforces.com/gym/450135/problem/V). Rated 3100, but I've seen the sweep with segtree approach before. I think it was pretty interesting in that it considered two cases of $a_i < a_j$ and $a_i \geq a_j$ separately, and then combined the answers. Implementation was pretty smooth - I wrote a sparse segtree, and other stuff worked out fine.
+
+- Grinded quite a bit of the [webdev course](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). I put most of the lectures on 2x speed, and finished ~50% of it today. However, there are assignments and stuff that are coming up, so I'll probably slow down a bit. To be honest, HTML is pretty straightforward, but CSS is a nightmare. Hopefully as I gain more experience, it will become less complicated?
+
+I would rate this day a 7/10. The only thing that could really be improved would be being more efficient on the DS1 problem. I think I implemented like 90% of it really fast, but then I made some typoes, TLE, etc, which cost a lot of time. Coursera I powered through pretty quickly, although for some reason I got pretty mentally tired and had to stare into space for a while before starting again. Still, I got through around 10 hours of video, so that is not bad.
+
+I think I checked discord and stuff less today, so that is progress.
+
+Tomorrow will probably be similarly straightforward.
+
+Plan for tomorrow:
+- Solve 1 DS1 problem
+- If time permits (finish decently quickly) solve another DS1 problem (unlikely?)
+- Grind more coursera, hopefully finish week 4 (I'm currently halfway through week 3, but it'll get more difficult to remember everything as time goes on)
+
+#### Wednesday, June 12, 2024
+It is late, so I'll keep it short
+- solved ds1 problem (nice virtual tree application, i'll link tmrw)
+    - upd: [treeland and viruses](https://codeforces.com/gym/450135/problem/X)
+- tried to solve previous ds1 problem, failed, don't understand edi well enough (it's chinese), asked jb, no response yet \:///
+- tried to fullsolve jan plat p3, got sol with right time complexity, but my segtree is slow so i'm optimizing it tmrw to hopefully be my first full plat ac
+
+rating: 4/10, felt like i could've debugged a lot less if i were less stupid
+
+tmrw:
+- finish plat problem
+- do another ds1 problem
+- look at another plat problem
+- do fullstack course
+
+#### Thursday, June 13, 2024
+- solved plat jan p3! no edi. My solution was pretty close to edi, but I did some range multiply stuff and imho it was cleaner. To go from TLE --> AC, I had to implement a more efficient segtree based on KACTL, which I'm surprised runs that fast. i guess in the future i'll implement segtrees in that style
+- solved ds1 problem. It was like ~3300, and it turns out the solution is just to sort and do some iterating. I think it's an interesting problem, and feels like silver but also has some nuance to it. Interesting problem, but idk how to motivate a solution
+- did fullstack course. Ok NGL CSS/Bootstrap stuff is pretty difficult, idk. I think I am getting more of a feel for stuff. Like given a webpage i can probably implement it, but it will be in a very hack way. hopefully this goes away
+
+rating: 5/10. Idk, I was pretty productive, but it just felt average in general
+
+tmrw: 
+- do a plat problem (hopefully no edi)
+- do another ds1 problem
+- fullstack course grind
