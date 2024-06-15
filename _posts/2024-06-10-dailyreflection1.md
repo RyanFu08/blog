@@ -68,3 +68,19 @@ tmrw:
 - do a plat problem (hopefully no edi)
 - do another ds1 problem
 - fullstack course grind
+
+#### Thursday, June 13, 2024
+- solved this russian ds1 problem, the editorial was pretty convoluted but i got a merging vectors solution in O(N^2 * Q) or something. I think the problem difficulty was slightly overrated. Pretty standard iirc, although edge cases were annoying
+- ok, then i started doing plat feb24p1. I got a solution, where it is like optimal to keep stuff monotonically decreasing, and you do segtree to keep it that way. i think the idea is not that hard, but i did some sloppy binary search stuff instead of walk on segtree, which adds an extra log factor. turns out, that is the difference between TLE and AC on the later testcases (pretty much rn my $n\log^2 n$ solution is behaving slow enough to not be distinguished from $n^2$, which is pretty shit). 
+
+![Verdict](../assets/images/verdict1.png)
+
+Funny coincedence - this trick to cut the $\log^2$ to a $\log$ was literally the first thing we learned in XCamp 602P, so I guess that comes in handy sometimes. I'm tired, I'll implement it tomorrow. Hopefully AC?
+
+Goodnight I guess. 
+
+tmrw:
+- attend tennis lesson?
+- finish this problem
+- do GLIFY debate logistics for next week
+- do 603p hw (ngl combinatorics this week is pretty nontrivial, especially p3: [luogu4708](https://www.luogu.com.cn/problem/P4708)) - it looks like i'll finally have to make a luogu account
