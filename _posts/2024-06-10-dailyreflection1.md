@@ -69,7 +69,7 @@ tmrw:
 - do another ds1 problem
 - fullstack course grind
 
-#### Thursday, June 13, 2024
+#### Friday, June 14, 2024
 - solved this russian ds1 problem, the editorial was pretty convoluted but i got a merging vectors solution in O(N^2 * Q) or something. I think the problem difficulty was slightly overrated. Pretty standard iirc, although edge cases were annoying
 - ok, then i started doing plat feb24p1. I got a solution, where it is like optimal to keep stuff monotonically decreasing, and you do segtree to keep it that way. i think the idea is not that hard, but i did some sloppy binary search stuff instead of walk on segtree, which adds an extra log factor. turns out, that is the difference between TLE and AC on the later testcases (pretty much rn my $n\log^2 n$ solution is behaving slow enough to not be distinguished from $n^2$, which is pretty shit). 
 
@@ -84,3 +84,16 @@ tmrw:
 - finish this problem
 - do GLIFY debate logistics for next week
 - do 603p hw (ngl combinatorics this week is pretty nontrivial, especially p3: [luogu4708](https://www.luogu.com.cn/problem/P4708)) - it looks like i'll finally have to make a luogu account
+
+#### Saturday, June 15, 2024
+Ok, it is technically Sunday at the time I am writing this (12:38). Trivialities asside, here is what I did:
+- failed to implement taht plat problem, I'm messing around with some DS, it is very hard to think through, hopefully more luck later
+- did tennis lesson
+- did GLIFY Debate Logistics
+- taught CPI class
+- did 2/3 603p hw, burnside is becoming more intuitive now. I just finished [SHOI2006: Graph Coloring](https://www.luogu.com.cn/problem/P4128), it was pretty neat counting once I figured it out. 
+
+tmrw:
+- finish 603p hw
+- finish preparing for GLIFY debate camp
+- finish plat problem
