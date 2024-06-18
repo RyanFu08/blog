@@ -97,3 +97,32 @@ tmrw:
 - finish 603p hw
 - finish preparing for GLIFY debate camp
 - finish plat problem
+
+#### Sunday, June 16, 2024
+
+It's 12:00 (tmrw) again, so I'll keep it short
+today:
+- finished 603p hw
+- cleaned up some debate camp stuff
+- finished webdev week 4/5
+- tried joi (joi p1)
+
+tmrw:
+- finish debugging/joi p1
+- final prep for debate camp p1
+- finish that one plat problem ._.
+- grind out webdev course
+
+### Monday, June 17, 2024
+
+today:
+- finish plat problem, joi problem
+- hosted first day of debate camp
+- finished webdev content, still need to do final assignment
+- got email from internship interview
+
+tmrw:
+- upsolve joi p3
+- do debate camp day 2
+- finish webdev course
+- prepare for interview
