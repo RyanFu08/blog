@@ -126,3 +126,17 @@ tmrw:
 - do debate camp day 2
 - finish webdev course
 - prepare for interview
+
+### Tuesday June 18, 2024
+
+today:
+- finished joi library3, intersting problem
+- host second day of debate camp
+- finished webdev final assignment
+- interview prep
+
+tmrw:
+- fail interview
+- try to finish 60pt subtask of joi heat
+- more usaco?
+- debate camp
