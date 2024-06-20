@@ -140,3 +140,17 @@ tmrw:
 - try to finish 60pt subtask of joi heat
 - more usaco?
 - debate camp
+
+### Wednesday June 19, 2024
+
+today:
+- finished joi heat subtask 2
+- host third day of debate camp
+- did interview
+- failed usaco, ds1 problem
+
+tmrw:
+- finish ds1 problem
+- finish other ds1 problem
+- find a plat problem to do
+- debate camp
