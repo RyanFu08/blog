@@ -154,3 +154,27 @@ tmrw:
 - finish other ds1 problem
 - find a plat problem to do
 - debate camp
+
+### Thursday June 20, 2024
+
+finished cloyster, plat cell merging, and ssr today. interesting problems, i guess dp is pretty hard, and i have to be more careful about edge cases?
+
+fuck the debate camp students. they are all extremely retarded and education on them is a waste of time. they're all useless losers who have nothing to contribute to society. Although, I guess I am projecting a bit (a lot).
+
+that was pretty much it today - just did some problems and then taught
+
+tmrw:
+- finish plat problem
+- finish ds1 problem
+- debate camp
+
+### Sunday June 23, 2024
+
+I have not posted in a while (busy, ig?). Today was decenlty productive. In the morning, i did some webdev project, similar to webplotdigitizer. I learned a bit about js and html in the process, so that was quite interesting. Then, i tried to do [cowntact tracing](https://usaco.org/index.php?page=viewproblem2&cpid=1356) with centroid decomposition (new thing i am learning, ig?) I got AC on most of it, but constant factored on the rest:
+
+![Verdict](../assets/images/verdict2.png)
+
+Tmrw:
+- do another plat problem?
+- work on webdev stuff
+- do another problem
