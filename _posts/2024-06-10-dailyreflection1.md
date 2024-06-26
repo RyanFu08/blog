@@ -178,3 +178,35 @@ Tmrw:
 - do another plat problem?
 - work on webdev stuff
 - do another problem
+
+### Monday June 24, 2024
+
+Finished plat problem (cowntact tracing). I asked around for centroid solutions that actually passed, and got some from omeganot and alternet. Unfortunately, I can't read/understand too well, but I did get a new idea of processing queries offline to cut a factor of 20, ending up AC. Before that however, this happend:
+
+![Verdict](../assets/images/verdict3.webp)
+
+which was quite amusing to me. However, I ended up getting AC after a bit more optimization, so that was nice.
+
+Other than that, I solved another 23-24 season plat problem (infinite adventure, scuffed binlift, not much to say), and then i'm moving on to the 22-23 season since the other problems are pretty impossible. I'm currently working on breakdown (dec22 p1), and i'm debugging, but it shouldn't be hard
+
+tmrw
+- finish breakdown
+- finish webdev task
+- find another plat problem
+
+### Tuesday June 25, 2024
+
+Finished breakdown (typos were the main issue, quite annoying). Ok, what was sad is that I thought "I'm so cool, this problem is simple, I shouldn't need to stress test", since the code was like ~100 lines, and I'm pretty used to debugging by 300 line ds bash. However, 40 minutes later, I wrote up `gen.cpp`, so... whatever.
+
+I also did the other doable problem from that year - it was about graphs, surprisingly short solution, I had to read edi, pretty straightforward. Used small to large merging with sets, and I guess what I learned is that $O(n\log ^2 n)$ *can* indeed pass, but I guess this problem was relatively like simple and constant friendly, so not sure how much I should trust this in the future. For (my) future reference, this was the verdict and the times used:
+
+![Verdict](../assets/images/verdict5.png)
+
+So it passed in decent time, although I'm pretty sure my implementation was definitely faster than your typical log^2. Still pretty interesting tho.
+
+Apart from that, I did some pdf cropping, but it's not finished yet, so I won't link it.
+
+Tmrw:
+- meet with fake nelson
+- ask jb for problems/hints
+- finish plat problem(s)?
