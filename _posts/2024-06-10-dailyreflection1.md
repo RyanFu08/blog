@@ -210,3 +210,47 @@ Tmrw:
 - meet with fake nelson
 - ask jb for problems/hints
 - finish plat problem(s)?
+
+### Wednesday June 26, 2024
+It's 11:40, and I'm taking cf tmrw, so I'll keep it brief
+
+today
+- met with 7edu about scheduling (more on this tmrw, i guess)
+- solved plat problem
+- finished a section of pdf graph project
+
+tmrw
+- more 7edu bullshit
+- take codeforces
+- look at coci
+- more pdf bullshit
+
+### saturday june 29, 2024
+I'm taking cf tmrw, yet again.
+Finished 603p hw today. Mo's with rollback is not too difficult, once i implemented it once. Fractional programming (fancy binary search) also seemed pretty easy, until luogu was stupid and forced me to set precision exactly to 8. Random thought - in the future, I'll probably switch to using `printf` and `scanf` instead of `cout` and `cin`, because it is cooler. I also learned SPFA, which stands for shortest path faster algorithm (really, just optimized bellman). It is just Bellman with queue/stack, and it seems weird that you can optimize runtime by switching from queue or stack to vice versa and randomizing the order you put them in or something. I feel like (but haven't tested) the on average optimized case is faster than dijkstra since pq isn't needed, but I might be wrong since pq is *really* fast in cpp.
+
+apart from that, i'm doing webdev. Firebase is weird, but manageable. Just that each project takes a long time to set up, and I need to understand a lot of different frameworks, which is quite overwhelming.
+
+tmrw:
+- win codeforces round
+- take early ceoi if time
+- upsolve ceoi obviousy
+- try to get firebase login working
+
+### sunday june 30, 2024
+I took cf today. It was ok, I did A-E minus C, so that is decent. I'll upsolve C tmrw. Aside from that, I also took CEOI 2016 Day 1. P1 was interactive/communication, and I was able to get full points, using some DSU things. I had the general idea floating around as soon as I read it, but I first did some stuff on P2 before it solidifed into a solution. P2 was some interesting permutation stuff. I somehow passed a $O(n^4)$ ish solution for $n=200$, which was amusing. Thus, I managed to get 151 points, which is more than what Nelson Huang (orz) got! Still quite far behind Sicheng Zhou (200 pts) and Brian Xue (269 pts, iirc). The intended full solve to p2 was quite unmotivated and a messy DP, but you can do [connected component dp](https://codeforces.com/blog/entry/92602) to solve it in quite a concise and nice way - this is a solution approach to many permutation problems. P3 was a weird interaction which I'll do tmrw.
+
+That was most of the day. I guess the only other notable thing was that I made a slideshow using beamer today for the CPI class, which was actually pretty satisfying. It is not hard, and results in pretty clean slides.
+
+Tomorrow - upsolve, take another ceoi, set up some webdev. Pretty standard.
+
+## thursday july 4, 2024
+it has been a while since i posted. progress is ok, i guess? I'm roughly taking a mock every 2 days, currently CEOI, APIO. Also, keeping a spreadsheet, as jb told me to do. I want to be able to accelerate up to every day, but i'll need to upsolve faster.
+
+Apart from that, did some webdev. Firebase is difficult, especially with next. It is difficult to get a big picture of it, so... Anyway, hopefully I can figure this all out in a decent fashion. PDF graphing heatmap project is going better, although I'm finding it difficult to organize all the files and functionality efficiently. I'll get more onto that when I can.
+
+Tomorrow:
+- upsolve APIO 2016 fireworks
+- take APIO 2017
+- take 603 class
+- fail 603 hw
