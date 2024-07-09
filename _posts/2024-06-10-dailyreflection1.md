@@ -272,3 +272,9 @@ tmrw:
 - ask jb for questions to solve
 
 ## monday july 8 2024
+ap tests came out. got some 5s, it is ok i guess. also solved 3 problems - rainbow something something i forgot name (apio 2017), traveling merchant (apio2017) and frequency problem (ds1). It is ok, I am enjoying persistent segtree and stuff. One fear i have is that i'm having trouble applying stuff i learn - traveling merchant was similar to a past 603 topic. i guess i just have to develop pattern recognition more...
+
+tmrw:
+- finish ds1 problem
+- figure out zeitro api
+- do more problem (ask jb, apio is getting difficult)
