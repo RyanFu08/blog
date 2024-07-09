@@ -254,3 +254,21 @@ Tomorrow:
 - take APIO 2017
 - take 603 class
 - fail 603 hw
+
+## saturday july 6, 2024
+oops, should prolly post more often!! i was in a car for a lot of today since my family is coming back from tahoe. nevertheless, i managed to AC jump from noi2019 (k-d tree problem), as well as odd mineral resource from ds1/cf1479d. for the former, I had a MLE/TLE solution for a long time, just from a pq in dijkstra. What ended up fixing it is checkign whether you've already inserted a shorter time in the pq, but haven't processed it. It's a heuristic, sure, but it reduced runtime considerably. for the latter, it was a persistent segtree solution with random xor hashing. pretty interesting, but also decently standard persistent problem? at least, similar to destiny, the previous 603p hw problem, as you are searching the same segtree at multiple different "times". worried about ap scores, but whatever. I'm (probably) just scaring myself.
+
+tmrw:
+- teach cpi class
+- upsolve whatever jb wants me to
+- fuck aroudn with the zeitro db shit
+
+## sunday july 7, 2024
+tmrw ap tests come out. I feel like historicaly, since amador scores well, and I am definitely top 5 students in my ap bio class overall, surely i got a 5? I'm pretty worried. I guess it wasn't as locked down as the other ones, but whatever
+Today, solved Oleg and Chess - interesting way to use segtrees and flows together. Not much else to say...
+
+tmrw:
+- understand internship stuff
+- ask jb for questions to solve
+
+## monday july 8 2024
