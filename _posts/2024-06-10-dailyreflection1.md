@@ -278,3 +278,15 @@ tmrw:
 - finish ds1 problem
 - figure out zeitro api
 - do more problem (ask jb, apio is getting difficult)
+
+## wednesday july 10 2024
+not extraordinarily productive today, unlike i hoped... did apio 2018, kinda failed. had the right idea for p1, but did not know the ds. p2 is weird geometry stuff that will never appear. p3 is biconnected components, which i tried to learn, really bad. did solve a ds1 problem, byu changing the compiler, and also doing some optimization on pq. 
+
+hope to finish upsolving apio tomorrow (problems are pretty intense, so even this is quite optimistic). if time remains, figure out zeitro. also hope to do well on cf
+
+## sunday july 14, 2024
+603 hw is pretty hard - treap, splay, just got persistent treap and splay done today. the rest are applcation problems, surely they are not as rough. not much else to say - just need to solve problems faster, i guess? new ds is hard, but it is very interesting
+
+tmrw:
+- take cf
+- try to finish 603 hw
